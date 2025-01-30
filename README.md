@@ -1,1 +1,1 @@
-# hacoton-trining
+# Hakaton
